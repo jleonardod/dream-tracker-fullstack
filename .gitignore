@@ -36,5 +36,5 @@ Thumbs.db
 *.swp
 *.swo
 
-# Application properties (optional, uncomment if sensitive)
-#src/main/resources/application.properties
+# Application properties
+*.properties
